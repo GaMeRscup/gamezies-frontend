@@ -1,14 +1,13 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
 
-class Game extends Component {
+class Playlist extends Component {
     render() {
         return (
-            <div className="game">
+            <div>
                 
             </div>
         );
     }
 }
 
-export default Game;
+export default Playlist;

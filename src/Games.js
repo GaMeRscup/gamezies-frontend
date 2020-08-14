@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import Game from './Game';
+import Search from './Search';
 
 class Games extends Component {
     render() {
